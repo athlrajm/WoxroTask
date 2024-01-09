@@ -15,6 +15,8 @@
     padding: auto;
     background-color: black;
     color: azure;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .row{
     justify-content: center;
