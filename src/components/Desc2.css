@@ -1,0 +1,27 @@
+
+.container {
+    text-align: center;
+  }
+  
+  .Desc1 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 10px 0;
+    font-family: 'Poppins', sans-serif; 
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0;
+  }
+  .Desc{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: auto;
+    background-color: rgb(12, 12, 12);
+    color: rgb(242, 246, 246);
+}
+  

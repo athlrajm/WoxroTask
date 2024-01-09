@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <Header/>
       <Images/>
-      <Desc/>
+      <Desc/><br></br>
       <Card/>
       <Desc2/>
       <HeadingRow/>
