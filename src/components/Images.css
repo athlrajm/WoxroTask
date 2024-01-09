@@ -11,3 +11,11 @@
     justify-content: center;
     align-items: center;
 }
+
+@media only screen and (max-width: 800px) {
+    .imgclass {
+      width: 100%; 
+      max-width: 100%;
+      height: auto;
+    }
+  }

@@ -42,4 +42,13 @@
   .btn1:hover {
     background-color: #5d615d; 
   }
+  @media only screen and (max-width: 600px) {
+    .Desc1 {
+      font-size: 16px; 
+      padding: 0 10px; 
+    }
   
+    .btn1 {
+      width: 120px; 
+    }
+  }
