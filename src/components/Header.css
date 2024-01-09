@@ -19,6 +19,14 @@
     
 
 }
+.close{
+    margin-left: 1500px;
+    font-size: 50px;
+    transition: transform 0.3s ease-in-out;
+}
+.close:hover {
+    transform: rotate(45deg); 
+  }
 @media only screen and (max-width: 600px) {
     .Span1 {
       font-size: 20px; 
