@@ -24,7 +24,7 @@ const Card = () => {
           />
         </a>
         <div className="desc" style={descStyle}>
-        <span className='span1'>Discover even more ways to play across thousands of creator-made game genres</span>
+        <span className='span1'>Explore Large, Destructible </span><span className='span1'>Environments where No Two Games</span><span className='span1'> Are Ever The Same.</span>
         </div>
       </div>
       <div>
@@ -38,7 +38,7 @@ const Card = () => {
           />
         </a>
         <div className="desc" style={descStyle}>
-        <span className='span1'>Discover even more ways to play across thousands of creator-made game genres</span>
+        <span className='span1'>Team Up With Friends By Sprinting, </span><span className='span1'>Climbing And Smashing Your Way To</span><span className='span1'> Earn Your Victory Royale</span>
         </div>
       </div>
       <div>
@@ -52,7 +52,7 @@ const Card = () => {
           />
         </a>
         <div className="desc" style={descStyle}>
-          <span className='span1'>Discover even more ways to play across thousands of creator-made game genres</span>
+        <span className='span1'>Discover Even More Ways To Play </span><span className='span1'>Across Thousands Of Creator-Made</span><span className='span1'> Game Genres</span>
         </div>
       </div>
     </div>

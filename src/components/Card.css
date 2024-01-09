@@ -1,14 +1,22 @@
-.span1{
+.span1 {
     color: aliceblue;
-    justify-content: center;
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 30px;
+    letter-spacing: 0.01em;
     text-align: center;
-    align-items: center;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 200;
-
-}
-.rows{
-    padding-top: 10px;
-    padding-left: 100px;
-    padding-right: 100px;
-}
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    max-height: 3.5em; 
+  }
+  
+  
+  
+  .rows {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+  }
+  

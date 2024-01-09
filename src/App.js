@@ -13,9 +13,9 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      <Images/>
+      <Images/><br></br>
       <Desc/><br></br>
-      <Card/>
+      <Card/><br></br>
       <Desc2/>
       <HeadingRow/>
       <Footer/>
