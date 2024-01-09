@@ -1,0 +1,11 @@
+.img1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.imgclass{
+    height: 300px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+}
