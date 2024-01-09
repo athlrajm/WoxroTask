@@ -20,7 +20,7 @@ const Card = () => {
             alt=""
             height="190px"
             width="190px"
-            
+            className='imgx'
           />
         </a>
         <div className="desc" style={descStyle}>
@@ -34,7 +34,7 @@ const Card = () => {
             alt=""
             height="190px"
             width="190px"
-            
+            className='imgx'
           />
         </a>
         <div className="desc" style={descStyle}>
@@ -48,7 +48,7 @@ const Card = () => {
             alt=""
             height="190px"
             width="190px"
-            
+            className='imgx'
           />
         </a>
         <div className="desc" style={descStyle}>

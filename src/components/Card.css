@@ -11,7 +11,9 @@
     overflow: hidden;
     max-height: 3.5em; 
   }
-  
+  .imgx{
+    margin-left: 15px;
+  }
   
   
   .rows {
